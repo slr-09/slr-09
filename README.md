@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm GA-EUN YU :)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslr-09&count_bg=%2397C077&title_bg=%239A9A9A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sir0)](https://solved.ac/profile/sir0)
  
 > ### Now Learning & Goals
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -37,5 +40,5 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C/C++&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sir0)](https://solved.ac/sir0/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sir0)](https://solved.ac/sir0/) -->
 
